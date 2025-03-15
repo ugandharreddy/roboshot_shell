@@ -1,3 +1,4 @@
+#shipping application
 source common.sh
 
 if [ -z "${root_mysql_password}" ]; then
