@@ -1,3 +1,4 @@
+#cart application
 source common.sh
 
 component=cart
